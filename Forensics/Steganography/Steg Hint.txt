@@ -1,0 +1,3 @@
+Steganographic Decoder
+Recommend to use following website to decode:
+https://futureboy.us/stegano/decinput.html
